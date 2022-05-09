@@ -11,7 +11,7 @@
 
 ## Sé não funcionar
 
-### Faça o fork do https://github.com/Pablodomingos/elan_i2c_dkms
+### Faça o fork do repositório https://github.com/Jookia/elan_i2c_dkms
 #### cd touch_lenovo_dkms
 #### sudo dkms install .
 #### Reinicie o sistema
