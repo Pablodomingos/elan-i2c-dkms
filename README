@@ -1,0 +1,10 @@
+Fork of https://github.com/Jookia/elan_i2c_dkms, to fix touchpad detection on the Ideapad S145.
+
+Builds on ElementaryOS (5.3.x) and probably other.
+
+To install, run this in a terminal:
+
+cd elan_i2c_dkms
+sudo dkms install .
+
+Then reboot your machine.
