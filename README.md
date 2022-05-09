@@ -9,7 +9,7 @@
 #### 4º Rode o comano sudo update-grub
 #### 5º Reinicie o sistema
 
-## Sé ainda não funcionou
+## Sé não funcionar
 
 ### Faça o fork do https://github.com/Pablodomingos/elan_i2c_dkms
 #### cd touch_lenovo_dkms
