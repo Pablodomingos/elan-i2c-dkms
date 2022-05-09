@@ -1,7 +1,6 @@
 ## Touch - Lenovo na distro Pop_Os!
-### Instale o Grub https://www.youtube.com/watch?v=wLOZfT0732Y
 
-## Sé não funcionar
+### Instale o Grub https://www.youtube.com/watch?v=wLOZfT0732Y
 
 ### Atualize o kernel
 #### 1º Rode o comando -> sudo <editor de sua preferencia/> /etc/default/grub
